@@ -1,6 +1,4 @@
 # Chatbot
-Certainly! Below is a `README.md` file description for the chatbot data preprocessing code you provided:
-
 ---
 
 # Chatbot Intent Classifier - Data Preprocessing
