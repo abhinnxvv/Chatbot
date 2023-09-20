@@ -30,9 +30,6 @@ The preprocessing involves several steps:
 2. **Bag-of-words Representation**: Patterns are transformed into a binary list representing the presence or absence of each word from the entire vocabulary in that pattern.
 3. **One-hot Encoding**: Each intent tag is represented as a one-hot encoded vector.
 
-## Error in the Code
-
-The current codebase may have an issue when converting the training data into a numpy array due to inconsistent inner list lengths. It's recommended to keep the training data as lists or ensure all inner lists have a consistent length.
 
 ## Potential Next Steps
 
